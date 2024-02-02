@@ -1,4 +1,4 @@
-# AM 148: Final Project Report
+# UCSC AM 148: Final Project Report
 
 ## Overview
 Explores the implementation of linear algebra routines optimized for GPU computing using the HIP C++ API, focused on enhancing computational efficiency for large datasets in scientific computing.
